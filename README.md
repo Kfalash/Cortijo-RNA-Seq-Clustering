@@ -4,4 +4,4 @@
 **otherclustmethod.R** - Clustering with PCA  
 **Sil.Clust.R** - Using Silhouette Score to analyze number of clusters in data  
 
-  Data files used can be found udner the Data folder
+  Data files used can be found under the Data folder
