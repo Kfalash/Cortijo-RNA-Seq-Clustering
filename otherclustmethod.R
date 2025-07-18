@@ -4,8 +4,6 @@ library(tidyverse)
 library(ggplot2)
 library(fpc)
 
-#ALDEx2 data
-allCV2 <- read.table("lab/ALDEx2CV2values/allCV2.txt",header=TRUE, sep='\t')
 #Original data
 AllZT <- read.table("lab/Heatmaps_CV2_expression/BrenneckeMod_allZT_RUV2.txt",
                     header=TRUE, sep='\t')
