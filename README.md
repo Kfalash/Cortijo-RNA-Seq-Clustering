@@ -1,4 +1,4 @@
-ComparingClusters.R - Complete, Average, and Ward clustering
+ComparingClusters.R - Complete, Average, and Ward clustering  
 ComparingClustersK-means.R - Complete, Average, and Ward clustering compared to k-means clustering
 Hopkinsanalysis.R - Using Hopkins Statistic to analyze the clusterability of the data
 Hopkinscode.R -
